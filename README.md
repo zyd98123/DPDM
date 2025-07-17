@@ -15,7 +15,10 @@ All datasets used in our experiments are preprocessed following common practices
 
 # code
 
-After the article is published, the code will be organized and made publicly available soon. If interested, you can contact the author in advance to make a request, and collaboration is welcome.
+The source code will be released publicly after the official publication of the article.  
+If you are interested in early access or collaboration, please feel free to contact the author in advance.  
+We welcome academic exchange and cooperation.
+
 
 # Results
 ![image](https://github.com/user-attachments/assets/b011284d-6ee8-48f1-9d04-76d31aec7a8a)
