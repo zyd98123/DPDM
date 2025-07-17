@@ -3,10 +3,14 @@
 This is a public code repository for DCDM.
 
 # DATA:
+We utilize three publicly available datasets in our experiments: METR-LA, PEMS-BAY, and BJ-AIR.
 
-The datasets Metr-la, PEMS-BAY, and BJ-AIR are publicly available on the internet;
-detailed addresses are https://github.com/liyaguang/DCRNN here. 
-The dataset of BJ-AIR is available https://quotsoft.net/air/ here
+METR-LA and PEMS-BAY are traffic speed datasets collected from loop detectors in the Los Angeles County and Bay Area, respectively. Both datasets are available through the DCRNN GitHub repository.
+
+BJ-AIR is an air quality dataset collected from monitoring stations in Beijing. It contains hourly measurements of various pollutants, including PM2.5, PM10, and NO2, as well as meteorological data. This dataset is publicly available here.
+
+All datasets used in our experiments are preprocessed following common practices in the traffic and environmental data modeling literature.
+
 # code
 
 After the article is published, the code will be organized and made publicly available soon. If interested, you can contact the author in advance to make a request, and collaboration is welcome.
