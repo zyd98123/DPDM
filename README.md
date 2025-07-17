@@ -10,7 +10,7 @@ We utilize three publicly available datasets in our experiments: **METR-LA**, **
 
 - **BJ-AIR** is an air quality dataset collected from monitoring stations in Beijing. It contains hourly measurements of various pollutants, including PM2.5, PM10, and NO2, as well as meteorological data. This dataset is publicly available [here](https://quotsoft.net/air/).
 
-All datasets used in our experiments are preprocessed following common practices in the traffic and environmental data modeling literature.
+
 
 
 # code
